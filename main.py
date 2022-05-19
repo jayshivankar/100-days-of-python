@@ -17,7 +17,8 @@ elif size == "L":
                 sum += 2
                 else:
                  print(sum)
-list()
 
 
 
+
+t
